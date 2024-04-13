@@ -1,4 +1,7 @@
-<ins> **Assignment-3(mesh data)</ins>**
+# **Assignment-3**
+
+## mesh data
+
 It is decentralized data architecture which contains products and product owners where every product they produce are managed by the product manager.
 It has also capabilities like transferring the data access for business purpose by data product owners.
 This architecture consists of main four principles: 
